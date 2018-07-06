@@ -1,6 +1,6 @@
 {
     "name": "gladd/ga-fix",
-    "description": "Google Analytics ignore cookie restriction mode",
+    "description": "Google Analytics ignore Magento 2 cookie restriction mode",
     "require": {
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
     },
