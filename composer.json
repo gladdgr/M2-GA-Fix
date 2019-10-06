@@ -1,12 +1,12 @@
 {
-    "name": "gladd/ga-fix",
+    "name": "gladd/module-ga-fix",
     "description": "Google Analytics ignore Magento 2 cookie restriction mode",
     "require": {
-        "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
-        "magento/module-google-analytics": "^100.0"
+        "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0",
+        "magento/module-google-analytics": "^100.3"
     },
     "type": "magento2-module",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "autoload": {
         "files": [
             "registration.php"
